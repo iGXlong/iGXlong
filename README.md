@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @iGXlong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-iGXlong/iGXlong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 哈喽，大家好！我是一名程序员。
+
+这里会记录一些我平时用来学习的一些小项目
+
+由于有时候 GitHub 会访问不了，也欢迎大家访问我的 gitee 主页
+
+
+欢迎大家访问我的个人博客
+https://blog.long-code.cn/
+
+我的联系方式
+qq：2072707750
+
+谢谢大家！！！
